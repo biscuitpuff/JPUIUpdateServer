@@ -1,1 +1,2 @@
+/American/raw/ui/ui_gamemodetitle.pac
 add mod.ini
